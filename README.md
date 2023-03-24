@@ -15,8 +15,6 @@ If you are using macOS, run the command in Terminal. If you are using Windows, r
 
  - hammad khan: `curl https://us-central1-htf-development.cloudfunctions.net/api/hammad-khan`
 
- - farishah nahrin: `curl https://us-central1-htf-development.cloudfunctions.net/api/farishah-nahrin`
-
  - brian lam: `curl https://us-central1-htf-development.cloudfunctions.net/api/brian-lam`
 
  - sid khabiya: `curl https://us-central1-htf-development.cloudfunctions.net/api/sid-k`
