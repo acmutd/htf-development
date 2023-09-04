@@ -61,8 +61,6 @@ If you are using macOS, run the command in Terminal. If you are using Windows, r
 
  - ryan noeske: `curl https://us-central1-htf-development.cloudfunctions.net/api/ryan-noeske`
 
- - vaughan mcinerney: `curl https://us-central1-htf-development.cloudfunctions.net/api/vaughan-utd`
-
  - kendal wiggins: `curl https://us-central1-htf-development.cloudfunctions.net/api/kendal-utd`
 
  - rajmeet juneja: `curl https://us-central1-htf-development.cloudfunctions.net/api/temoc-utd`
